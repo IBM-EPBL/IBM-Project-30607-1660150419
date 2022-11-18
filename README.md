@@ -1,0 +1,14 @@
+# IBM-Project-30607-1660150419
+TEAM ID : PNT2022TMID16088
+
+"Smart Waste Management System For Metropolitan Cities"
+
+TEAM MEMBERS:
+
+1)MUGHILAN V
+
+2)NITHISH KANNA V
+
+3)RAHUL R
+
+4)PARI YOGESHWARAN S
